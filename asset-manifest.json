@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/market007/static/css/main.7f194964.css",
+    "main.js": "/market007/static/js/main.5efc5928.js",
+    "static/js/787.5321f4d1.chunk.js": "/market007/static/js/787.5321f4d1.chunk.js",
+    "index.html": "/market007/index.html",
+    "main.7f194964.css.map": "/market007/static/css/main.7f194964.css.map",
+    "main.5efc5928.js.map": "/market007/static/js/main.5efc5928.js.map",
+    "787.5321f4d1.chunk.js.map": "/market007/static/js/787.5321f4d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f194964.css",
+    "static/js/main.5efc5928.js"
+  ]
+}
